@@ -70,9 +70,12 @@ abdulrhmanahmed.vercel.app
 </tr>
 
 </table>
-> *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+<div align="center">
 
-<br/>
+*"The goal is to turn data into information, and information into insight."*  
+**— Carly Fiorina**
+
+</div>
 
 ---
 
