@@ -119,10 +119,6 @@ abdulrhmanahmed.vercel.app
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrhman18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=a8b2d8&ring_color=2ecc71" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhman18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ecc71&text_color=a8b2d8" width="44%" />
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrhman18&theme=tokyonight&hide_border=true&background=0d1117&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
