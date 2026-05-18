@@ -134,7 +134,7 @@ abdulrhmanahmed.vercel.app
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">📊 Superstore Sales Dashboard</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">📊 Superstore Sales Dashboard</a></h3>
       <p>End-to-end sales analytics dashboard uncovering revenue trends, regional performance, and product-level profitability — built with advanced DAX measures and drill-through navigation for executive-level reporting.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -143,7 +143,7 @@ abdulrhmanahmed.vercel.app
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">👥 HR Analytics Dashboard</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">👥 HR Analytics Dashboard</a></h3>
       <p>Comprehensive HR intelligence platform tracking workforce KPIs — attrition rates, department headcount, salary distribution, and hiring trends — enabling HR teams to act on data rather than instinct.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -153,7 +153,7 @@ abdulrhmanahmed.vercel.app
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">📈 Revenue Margin Analysis Dashboard</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">📈 Revenue Margin Analysis Dashboard</a></h3>
       <p>Interactive Power BI dashboard dissecting revenue streams and profit margins across products, regions, and time periods — giving leadership the clarity to spot opportunities and eliminate inefficiencies fast.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -162,7 +162,7 @@ abdulrhmanahmed.vercel.app
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">🏗️ SQL Data Warehouse Project</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">🏗️ SQL Data Warehouse Project</a></h3>
       <p>Designed and implemented a structured data warehouse from scratch — covering star/snowflake schema design, ETL pipelines, data cleansing, and dimensional modeling for reliable analytical query performance.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -172,7 +172,7 @@ abdulrhmanahmed.vercel.app
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">🎟️ Vouchers Utilization Distribution</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">🎟️ Vouchers Utilization Distribution</a></h3>
       <p>Analyzes voucher usage patterns and distribution trends across customer segments — identifying redemption rates, peak usage windows, and untapped segments to sharpen promotional strategy.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -180,7 +180,7 @@ abdulrhmanahmed.vercel.app
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">🏥 Healthcare Dashboard</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">🏥 Healthcare Dashboard</a></h3>
       <p>BI dashboard for the healthcare domain tracking patient volume, treatment outcomes, departmental performance, and resource utilization — empowering administrators to make data-backed operational decisions.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -190,7 +190,7 @@ abdulrhmanahmed.vercel.app
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">🍽️ Restaurant POS Automation System</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">🍽️ Restaurant POS Automation System</a></h3>
       <p>End-to-end POS automation for restaurant operations — streamlining order flows, live sales tracking, and reporting through SQL-backed data pipelines and integrated Power BI dashboards.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -199,7 +199,7 @@ abdulrhmanahmed.vercel.app
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">🧠 CNN Sentiment Analysis</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">🧠 CNN Sentiment Analysis</a></h3>
       <p>Deep learning pipeline using Convolutional Neural Networks to classify sentiment in text data — leveraging local feature pattern recognition in sequences to go beyond traditional NLP baselines.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -210,7 +210,7 @@ abdulrhmanahmed.vercel.app
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdulrhman18">✍️ Character-level RNN</a></h3>
+      <h3><a href="https://github.com/abdulrhman18?tab=repositories">✍️ Character-level RNN</a></h3>
       <p>A Recurrent Neural Network trained at the character level to generate text sequences — exploring the fundamentals of language modeling by predicting the next character, foundational work for generative AI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
