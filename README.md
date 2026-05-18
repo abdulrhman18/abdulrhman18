@@ -22,26 +22,54 @@
 
 ## 👨‍💻 &nbsp;Executive & Technical Profile
 
-<div align="center">
+## 🚀 Professional Snapshot
 
-### 🚀 Professional Snapshot
+<table>
+<tr>
+<td width="35%"><b>💼 Role</b></td>
+<td><b>Business Intelligence Developer</b> & <b>Data Analyst</b></td>
+</tr>
 
-💼 **Business Intelligence Developer** | **Data Analyst**
+<tr>
+<td><b>🎯 Current Focus</b></td>
+<td>Transforming raw multi-source operational data into actionable insights</td>
+</tr>
 
-📊 Transforming **raw multi-source data** into **actionable insights**
+<tr>
+<td><b>📊 Methodologies</b></td>
+<td>Star Schema Modeling • Database Normalization • Data Integrity Audits</td>
+</tr>
 
-⚙️ **Power BI** • **Power Apps** • **Power Automate**
+<tr>
+<td><b>⚙️ Core Platforms</b></td>
+<td>Microsoft Power BI • Power Apps • Power Automate</td>
+</tr>
 
-🗄️ **SQL Server** • **PostgreSQL** • **SharePoint**
+<tr>
+<td><b>🗄️ Data Layer</b></td>
+<td>SQL Server (T-SQL) • PostgreSQL • SharePoint</td>
+</tr>
 
-📈 Optimizing workflows and improving reporting efficiency
+<tr>
+<td><b>📈 Operational Value</b></td>
+<td>Reducing manual processing latency • Improving reporting accuracy</td>
+</tr>
 
-🌱 Exploring **Cloud Data Warehousing** & **ML-powered Analytics**
+<tr>
+<td><b>🌱 Currently Learning</b></td>
+<td>Cloud Data Warehousing • ML-powered Analytics Pipelines</td>
+</tr>
 
-🌐 Portfolio: **[abdulrhmanahmed.vercel.app](https://abdulrhmanahmed.vercel.app)**
+<tr>
+<td><b>🌐 Portfolio</b></td>
+<td>
+<a href="https://abdulrhmanahmed.vercel.app">
+abdulrhmanahmed.vercel.app
+</a>
+</td>
+</tr>
 
-</div>
-
+</table>
 > *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
 <br/>
