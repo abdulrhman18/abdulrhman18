@@ -22,16 +22,25 @@
 
 ## 👨‍💻 &nbsp;Executive & Technical Profile
 
-```yaml
-Role:              Business Intelligence Developer & Data Analyst
-Current Focus:     Transforming raw multi-source operational data into actionable insights
-Methodologies:     Star Schema Modeling · Database Normalization · Data Integrity Audits
-Core Platforms:    Microsoft Power BI (Desktop & Service) · Power Platform (Apps & Automate)
-Data Layer:        SQL Server (T-SQL) · PostgreSQL · SharePoint Data Infrastructure
-Operational Value: Reducing Manual Processing Latency · Establishing 99%+ Reporting Accuracy
-Currently:         Exploring cloud data warehousing · ML-powered analytics pipelines
-Portfolio:         https://abdulrhmanahmed.vercel.app
-```
+<div align="center">
+
+### 🚀 Professional Snapshot
+
+💼 **Business Intelligence Developer** | **Data Analyst**
+
+📊 Transforming **raw multi-source data** into **actionable insights**
+
+⚙️ **Power BI** • **Power Apps** • **Power Automate**
+
+🗄️ **SQL Server** • **PostgreSQL** • **SharePoint**
+
+📈 Optimizing workflows and improving reporting efficiency
+
+🌱 Exploring **Cloud Data Warehousing** & **ML-powered Analytics**
+
+🌐 Portfolio: **[abdulrhmanahmed.vercel.app](https://abdulrhmanahmed.vercel.app)**
+
+</div>
 
 > *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
